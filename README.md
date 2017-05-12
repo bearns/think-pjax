@@ -1,9 +1,10 @@
 # ThinkPHP 5.0  Pjax 行为扩展
+
 A pjax behavior for ThinkPHP5
 
 ## 需求
 
-
+此扩展依赖 ThinkPHP 5
 
 ## 安装
 
