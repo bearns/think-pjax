@@ -11,7 +11,7 @@ A pjax behavior for ThinkPHP5
 使用 Composer 安装:
 
 ``` bash
-$ composer require breans/think-pjax
+$ composer require bearns/think-pjax -vvv
 ```
 
 ## 使用
